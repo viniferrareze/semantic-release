@@ -1,0 +1,8 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/viniferrareze/semantic-release.git",
+  "author": "Carlos Vinícius Ferrareze <viniferrareze@gmail.com>",
+  "license": "MIT"
+}
